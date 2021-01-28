@@ -1,0 +1,8 @@
+A1 A2 7
+B
+L
+LB
+RB
+LT
+T
+RT
