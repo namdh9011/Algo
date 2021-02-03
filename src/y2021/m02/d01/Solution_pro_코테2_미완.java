@@ -9,7 +9,7 @@ package y2021.m02.d01;
 - 
 */
 
-public class Solution_pro_코테2 {
+public class Solution_pro_코테2_미완 {
 	public static void main(String[] args) throws Exception {
 		double C = 1.0;
 		double F = 100.0;
