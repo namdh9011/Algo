@@ -31,7 +31,7 @@ class Main_bj_1996_지뢰찾기 {
 							}
 						}
 					}
-					map[i][j]=Integer.MIN_VALUE;
+					map[i][j]=-82;
 				}
 			}
 		}
