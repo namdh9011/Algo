@@ -1,4 +1,4 @@
-package y2021.m02.d22;
+package y2021.m02.d23;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
