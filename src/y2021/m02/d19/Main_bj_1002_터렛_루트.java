@@ -26,7 +26,7 @@ class Main_bj_1002_터렛_루트 {
 			d1-=Integer.parseInt(st.nextToken());
 			d2-=Integer.parseInt(st.nextToken());
 			double r2=Integer.parseInt(st.nextToken());
-			double d = Math.sqrt(Math.pow(d1, 2) + Math.pow(d2, 2)); 
+			double d = Math.sqrt(Math.pow(d1, 2) + Math.pow(d2, 2));
 			if(d==0&&r1==r2) {
 				sb.append(-1).append("\n");
 				continue;
