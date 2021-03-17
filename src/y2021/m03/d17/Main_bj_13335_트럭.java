@@ -3,8 +3,8 @@ package y2021.m03.d17;
 import java.util.*;
 import java.io.*;
 /*
-5 4 10
-7 4 5 5 6
+5 4 7
+7 4 4 4 4
  */
 public class Main_bj_13335_트럭 {
 	public static void main(String[] args) throws Exception {
@@ -14,7 +14,7 @@ public class Main_bj_13335_트럭 {
 		int W = Integer.parseInt(st.nextToken());
 		int L = Integer.parseInt(st.nextToken());
 		st = new StringTokenizer(br.readLine());
-		Queue<int[]> onBridge = new LinkedList<>();
+		Queue<int[]> onBridge = new LinkedList<>();	//0:트럭이 탈출하는시간 1:트럭무게
 		int weightsum = 0;
 		int time = 0;
 		for(int i=0;i<N;i++) {
