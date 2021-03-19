@@ -3,13 +3,8 @@ package y2021.m03.d19;
 import java.util.*;
 import java.io.*;
 /*
-5 4
-2 3
-1 1 E
-5 4 W
-1 L 1
-1 F 3
-2 F 7
+3 2
+1 2 1 2 1 2
  */
 public class Main_bj_20055_컨베이어벨트위의로봇_큐_시간X메모리X {
 	public static void main(String[] args) throws Exception {
