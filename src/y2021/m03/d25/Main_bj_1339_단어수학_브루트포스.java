@@ -3,10 +3,21 @@ package y2021.m03.d25;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 /*
+메모리 : 13524KB
+시간 : 944ms
+
+최적 메모리 : 12900KB
+최적 시간 : 68ms
+
+- 그리디로 풀어야 시간 단축 될 듯.
+*/
+
+/*
 2
 ABC
 DBEFZ
- */
+*/
+
 public class Main_bj_1339_단어수학_브루트포스 {
 	public static int a[], max;
 	public static boolean[] v;
