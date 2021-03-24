@@ -18,7 +18,7 @@ ABC
 DBEFZ
 */
 
-public class Main_bj_1339_단어수학_브루트포스 {
+public class Main_bj_1339_단어수학_v2_브루트포스 {
 	public static int a[], max;
 	public static boolean[] v;
 	public static void main(String[] args) throws Exception {

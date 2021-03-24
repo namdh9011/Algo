@@ -10,7 +10,7 @@ import java.util.HashMap;
 ABC
 DBEFZ
  */
-public class Main_bj_1339_단어수학_틀림 {
+public class Main_bj_1339_단어수학_v1_틀림 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());
