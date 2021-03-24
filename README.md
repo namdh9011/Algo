@@ -18,6 +18,4 @@
 - [2020-09](https://github.com/namdh9011/Algo/tree/master/src/y2020/m09)
 - [2020-08](https://github.com/namdh9011/Algo/tree/master/src/y2020/m08)
 - [2020-07](https://github.com/namdh9011/Algo/tree/master/src/y2020/m07)
-- 
-
 
