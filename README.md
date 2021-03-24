@@ -4,7 +4,7 @@
 
 <br>
 
-- [Daily 과제](https://github.com/namdh9011/Algo/wiki)
+## 📆 [Daily 과제](https://github.com/namdh9011/Algo/wiki)
 - [Java 소스파일](https://github.com/namdh9011/Algo/tree/master/src)
 
 
