@@ -5,7 +5,7 @@
 <br>
 
 - [Daily 과제](https://github.com/Songwonseok/CS-Study/wiki#-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C)
-- [Java 소스파일](https://github.com/Songwonseok/CS-Study/tree/main/Algorithm/Solution)
+- [Java 소스파일](https://github.com/namdh9011/Algo/tree/master/src)
 
 
 
