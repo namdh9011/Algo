@@ -4,6 +4,15 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 /*
+메모리 : 16224KB
+시간 : 192ms
+
+최적 메모리 : 16192KB
+최적 시간 : 136ms
+
+*/
+
+/*
 5
 6 8 2 6 2
 3 2 3 4 6
