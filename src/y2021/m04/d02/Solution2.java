@@ -1,6 +1,6 @@
 package y2021.m04.d02;
 
-
+//git 설정 변경
 public class Solution2 {
 
 	public static void main(String[] args) {
