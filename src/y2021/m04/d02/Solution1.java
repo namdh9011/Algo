@@ -1,7 +1,7 @@
 package y2021.m04.d02;
 
 import java.util.HashSet;
-// git 설정 변경
+
 public class Solution1 {
 
 	public static void main(String[] args) {
