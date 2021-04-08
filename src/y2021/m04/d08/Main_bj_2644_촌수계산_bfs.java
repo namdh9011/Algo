@@ -7,10 +7,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 /*
-메모리 : 11888KB
-시간 : 112ms
+메모리 : 11668KB
+시간 : 84ms
 
-최적 메모리 : 12944KB
+최적 메모리 : 12952KB
 최적 시간 : 68ms
 */
 /*
