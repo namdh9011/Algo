@@ -1,6 +1,5 @@
 package y2021.m05.d04;
 
-import java.util.*;
 //답 보고 풀었음.
 //다시 풀어 볼 것.
 
