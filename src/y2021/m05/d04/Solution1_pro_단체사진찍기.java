@@ -6,16 +6,16 @@ public class Solution1_pro_단체사진찍기 {
 		String[] data = {"N~F=0", "R~T>2"};
 		System.out.println(solution(n, data));
 	}
-	public static int friendmap[], friends[], cnt;
+	public static int friendmap[], location[], cnt;
     public static boolean visit[];
-    public static char fri[] = {'A', 'C', 'F', 'J', 'M', 'N', 'R', 'T'};
+    public static char mem[] = {'A', 'C', 'F', 'J', 'M', 'N', 'R', 'T'};
     public static int solution(int n, String[] data) {
         int answer = 0;
         cnt=0;
-        friends = new int[8];
+        location = new int[8];
         friendmap = new int['Z'+1];
         for(int i=0;i<8;i++){
-            friendmap[fri[i]]=i;
+            friendmap[mem[i]]=i;
         }
         visit = new boolean[8];
         perm(0,n,data);
@@ -32,7 +32,7 @@ public class Solution1_pro_단체사진찍기 {
         for(int i=0;i<8;i++){
             if(!visit[i]){
                 visit[i]=true;
-                friends[count]=i;
+                location[count]=i;
                 perm(count+1, n, data);
                 visit[i]=false;
             }
@@ -47,10 +47,10 @@ public class Solution1_pro_단체사진찍기 {
             int dis1 = 0;
             int dis2 = 0;
             for(int j=0;j<8;j++){
-                if(friends[j]==a){
+                if(location[j]==a){
                     dis1=j;
                 }
-                if(friends[j]==b){
+                if(location[j]==b){
                     dis2=j;
                 }
             }
