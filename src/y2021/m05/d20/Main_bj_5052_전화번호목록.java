@@ -22,8 +22,6 @@ import java.util.HashSet;
 123440
 12345
 98346
- .
-.
  */
 public class Main_bj_5052_전화번호목록 {
 	public static void main(String[] args) throws Exception {
