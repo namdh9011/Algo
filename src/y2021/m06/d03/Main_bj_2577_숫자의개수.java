@@ -4,11 +4,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 /*
-메모리 : 11536 KB
-시간 : 76 ms
+메모리 : 11468 KB
+시간 : 80 ms
 
-최적 메모리 : 12920 KB
-최적 시간 : 68 ms
+최적 메모리 : 12752 KB
+최적 시간 : 64 ms
 */
 /*
 150
