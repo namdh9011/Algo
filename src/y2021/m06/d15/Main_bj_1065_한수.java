@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 /*
 메모리 : 11496 KB
 시간 : 80 ms
-
 최적 메모리 : 12880 KB
 최적 시간 : 64 ms
 */
@@ -34,5 +33,3 @@ public class Main_bj_1065_한수 {
 		return true;
 	}
 }
-
-
