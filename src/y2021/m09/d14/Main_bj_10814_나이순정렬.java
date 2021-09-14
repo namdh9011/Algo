@@ -6,19 +6,18 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 /*
-메모리 : 11528 KB
-시간 : 80 ms
+메모리 : 48452 KB
+시간 : 588 ms
 
-최적 메모리 : 12740 KB
-최적 시간 : 68 ms
+최적 메모리 : 29124 KB
+최적 시간 : 216 ms
 
 */
 /*
-5 4
-3 1
-3 2
-4 3
-5 3
+3
+21 Junkyu
+21 Dohyun
+20 Sunyoung
  */
 public class Main_bj_10814_나이순정렬 {
 	public static class Member implements Comparable<Member> {
